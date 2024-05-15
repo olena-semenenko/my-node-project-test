@@ -1,6 +1,6 @@
 /node_modules
 
-.evn
+.env
 .vs_code
 .idea
 .DS_Store
